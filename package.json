@@ -13,8 +13,8 @@
     "react-navigation": "2.18.3"
   },
   "devDependencies": {
-    "@babel/core": "7.10.4",
-    "@babel/runtime": "7.10.4",
+    "@babel/core": "7.10.5",
+    "@babel/runtime": "7.10.5",
     "babel-jest": "24.8.0",
     "jest": "24.8.0",
     "metro-react-native-babel-preset": "0.60.0",
